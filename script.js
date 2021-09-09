@@ -12,6 +12,8 @@
                   }
         }
 
+//text
+
 Operasi=(oper) =>{
           hitung.onclick = function(){
             var val1 = parseInt(bil1.value)
