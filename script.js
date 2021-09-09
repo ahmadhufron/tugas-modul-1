@@ -12,7 +12,6 @@
                   }
         }
 
-//text
 
 Operasi=(oper) =>{
           hitung.onclick = function(){
